@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-10-15T00:00:00Z",
+  "sourceName": "TESTOVACI KATALOG – SMYSLENE CENY, NEPOUZIVAT PRO SKUTECNE POROVNANI",
+  "offers": [
+    {
+      "id": "sample-github-pages-test",
+      "supplier": "TEST Dodavatel",
+      "productName": "Testovací tarif D25d",
+      "energyType": "electricity",
+      "commodityKWh": 3.2,
+      "distributionKWh": 1.8,
+      "otherRegulatedKWh": 0.35,
+      "supplierMonthlyFee": 129,
+      "regulatedMonthlyFee": 210,
+      "breakerMonthlyFee": 25,
+      "taxKWh": 0,
+      "vatRate": 0.21,
+      "validFrom": "2026-01-01T00:00:00Z",
+      "validUntil": "2026-12-31T23:59:59Z",
+      "sourceName": "TEST – NEOVERENE CENY",
+      "sourceURL": "https://example.com/",
+      "isVerified": false,
+      "commodityNTKWh": 3.2,
+      "distributionNTKWh": 1.8,
+      "distributionArea": "ČEZ Distribuce",
+      "tariffCode": "D25d",
+      "breakerCode": "3x25A"
+    }
+  ]
+}
