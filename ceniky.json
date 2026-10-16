@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-16T10:30:00Z",
-  "sourceName": "Ruční přepis zveřejněných ceníků ČEZ a E.ON pro rok 2026 – ověřte dostupnost produktů",
+  "updatedAt": "2026-10-16T11:39:23Z",
+  "sourceName": "Ruční přepis zveřejněných ceníků ČEZ, E.ON, MND a Centropol pro rok 2026 – ověřte dostupnost produktů",
   "offers": [
     {
       "energyType": "electricity",
@@ -54,6 +54,60 @@
         "https://saeceweb2025run-endpoint-e4e3cvh4e8b5gpbe.a01.azurefd.net/eonmedialibcontainer/e.on/media/pricelists/domacnosti/elekt%C5%99ina/2026/akvizice/cen%C3%ADky%201_26/cenik-online-elektrina-pro-na-2-roky-1_26-distribucni-uzemi-cez.pdf?ext=.PDF&guid=a4f83701-736e-4b44-a6c7-0a9e042f639d&last-modified=639039857919537127"
       ],
       "notes": "Smlouva na dobu neurčitou. Zveřejněné obchodní ceny od 1. 1. 2026; dostupnost a aktuálnost ověřte u ČEZ. Regulované ceny pro stejné území a sazbu převzaty z tabulky E.ON pro rok 2026. Roční odhad nezahrnuje volitelné služby ani jednorázové poplatky."
+    },
+    {
+      "energyType": "electricity",
+      "distributionKWh": 2.25245,
+      "distributionNTKWh": 0.1165,
+      "otherRegulatedKWh": 0.16424,
+      "regulatedMonthlyFee": 12.87,
+      "breakerMonthlyFee": 269,
+      "taxKWh": 0.0283,
+      "vatRate": 0.21,
+      "validUntil": "2026-12-31T22:59:59Z",
+      "isVerified": false,
+      "distributionArea": "ČEZ Distribuce",
+      "tariffCode": "D25d",
+      "breakerCode": "3x25A",
+      "id": "mnd-leto-28-cez-d25d-3x25",
+      "supplier": "MND Energie",
+      "productName": "Proud – Ceník Léto 28",
+      "commodityKWh": 2.53966,
+      "commodityNTKWh": 2.31157,
+      "supplierMonthlyFee": 129.75,
+      "validFrom": "2026-01-01T00:00:00Z",
+      "sourceName": "MND – Ceník Léto 28, strany 1–3, ČEZ Distribuce",
+      "sourceURL": "https://www.mnd.cz/documents/view/5bd004eb-3e52-4954-8898-60f0378fd9ef",
+      "notes": "Pevná obchodní cena do 30. 6. 2028. Pro nové i stávající zákazníky s odběrem nejvýše 30 MWh/rok; aktivaci a dostupnost ověřte u MND. Předčasné ukončení nebo změna ceníku může být zpoplatněna. Bez výpovědi nejpozději 20 dní před koncem fixace přechází od 1. 7. 2028 na tehdy platný základní ceník Proud a dobu neurčitou s tříměsíční výpovědní dobou. Podmíněný jednorázový bonus 1 000 Kč není započten. Roční odhad používá regulované ceny 2026 a nezahrnuje volitelné služby ani jednorázové poplatky."
+    },
+    {
+      "energyType": "electricity",
+      "distributionKWh": 2.25245,
+      "distributionNTKWh": 0.1165,
+      "otherRegulatedKWh": 0.16424,
+      "regulatedMonthlyFee": 12.87,
+      "breakerMonthlyFee": 269,
+      "taxKWh": 0.0283,
+      "vatRate": 0.21,
+      "validUntil": "2026-12-31T22:59:59Z",
+      "isVerified": false,
+      "distributionArea": "ČEZ Distribuce",
+      "tariffCode": "D25d",
+      "breakerCode": "3x25A",
+      "id": "centropol-online-3roky-20260924-cez-d25d-3x25",
+      "supplier": "Centropol Energy",
+      "productName": "FIXNĚ ONLINE PRO ZAČÁTEK na 3 roky",
+      "commodityKWh": 2.683,
+      "commodityNTKWh": 2.428,
+      "supplierMonthlyFee": 135,
+      "validFrom": "2026-09-23T22:00:00Z",
+      "sourceName": "Centropol – ceník od 24. 9. 2026, ČEZ Distribuce, strana 1",
+      "sourceURL": "https://www.centropol.cz/wp-content/uploads/2026/09/d-fixne-online-pro-zacatek-na-3-roky-24092026-d-cez-01012026.pdf?download=1",
+      "additionalSourceURLs": [
+        "https://www.centropol.cz/ceniky/?komodita=ele",
+        "https://www.centropol.cz/chci-k-centropolu/"
+      ],
+      "notes": "Produkt při změně dodavatele. Sjednání pouze online, elektronická smlouva, fakturace a komunikace; smluvní závazek a fixace obchodní ceny na 36 měsíců. Dostupnost a úplné smluvní podmínky ověřte u Centropolu. Podmíněné bonusy ani garance nejnižší ceny nejsou započteny. Roční odhad používá regulované ceny 2026 a nezahrnuje volitelné služby ani jednorázové poplatky."
     }
   ]
 }
